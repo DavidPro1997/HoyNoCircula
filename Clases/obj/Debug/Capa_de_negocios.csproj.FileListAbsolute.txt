@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Clases\bin\Debug\Clases.dll
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Clases\bin\Debug\Clases.pdb
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Clases\obj\Debug\Capa_de_negocios.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Clases\obj\Debug\Capa_de_negocios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Clases\obj\Debug\Clases.dll
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Clases\obj\Debug\Clases.pdb

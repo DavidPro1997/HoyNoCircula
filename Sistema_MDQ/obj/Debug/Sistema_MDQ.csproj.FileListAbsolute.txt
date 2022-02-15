@@ -1,0 +1,32 @@
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Sistema_MDQ\bin\Debug\Sistema_MDQ.exe.config
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Sistema_MDQ\bin\Debug\Sistema_MDQ.exe
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Sistema_MDQ\bin\Debug\Sistema_MDQ.pdb
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.frmConsultas.resources
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.frmRegistro.resources
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.frmSalvoconducto.resources
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.Properties.Resources.resources
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.exe
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.pdb
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.frmPrincipal.resources
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Sistema_MDQ\bin\Debug\Clases.dll
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Sistema_MDQ\bin\Debug\Clases.pdb
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.csproj.CopyComplete
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Sistema_MDQ\bin\Debug\Sistema_MDQ.exe.config
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Sistema_MDQ\bin\Debug\Sistema_MDQ.exe
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Sistema_MDQ\bin\Debug\Sistema_MDQ.pdb
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Sistema_MDQ\bin\Debug\Clases.dll
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Sistema_MDQ\bin\Debug\Clases.pdb
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.csproj.AssemblyReference.cache
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.frmPrincipal.resources
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.frmConsultas.resources
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.frmRegistro.resources
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.frmSalvoconducto.resources
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.Properties.Resources.resources
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.csproj.GenerateResource.cache
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.csproj.CopyComplete
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.exe
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Sistema_MDQ\obj\Debug\Sistema_MDQ.pdb

@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Clases\bin\Debug\Clases.dll
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Clases\bin\Debug\Clases.pdb
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Clases\obj\Debug\Clases.dll
+C:\Users\DELL\source\repos\Proyecto01_MDQ\Clases\obj\Debug\Clases.pdb
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Clases\bin\Debug\Clases.dll
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Clases\bin\Debug\Clases.pdb
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Clases\obj\Debug\Clases.dll
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Clases\obj\Debug\Clases.pdb
+C:\Users\david\Documents\EPN\Semestre 2021-A\Aplicaciones Distribuidas\Proyecto\Proyecto01_MDQ\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
